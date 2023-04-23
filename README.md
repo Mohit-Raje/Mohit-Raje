@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohit-Raje
-- 👀 I’m interested in languages like Python and R and passionate about Machine Learning and Data Science
+- 👀 I’m interested in languages like Python and R and passionate about Data Science and Machine Learning
 - 🌱 I’m currently persuing Computer Engineering....
 - 📫 How to reach me @ mohitraje7@gmail.com
 

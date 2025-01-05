@@ -22,9 +22,9 @@ Power BI, Tableau, Excel
 
 🔥 Currently Building
 
-🤖 Exploring cutting-edge AI solutions with Groq, Ollama, AWS Bedrock, Nvidia NIM, CrewAI
-🌐 Innovating in GenAI, Machine Learning, and Deep Learning to change the game
-🧠 Developing a Data Science-based application to unlock insights and automate decision-making
+🤖 Exploring cutting-edge AI solutions with Groq, Ollama, AWS Bedrock, Nvidia NIM, CrewAI<br>
+🌐 Innovating in GenAI, Machine Learning, and Deep Learning to change the game<br>
+🧠 Developing a Data Science-based application to unlock insights and automate decision-making<br>
 📊 Deeply interested in Data Analytics, focused on leveraging data to drive impactful solutions and business intelligence
 
 💡 What I Love

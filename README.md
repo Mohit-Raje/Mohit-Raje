@@ -20,12 +20,12 @@ GenAI, Data Science, Deep Learning, Natural Language Processing, Computer Vision
 Power BI, Tableau, Excel<br>
 
 
-🔥 Currently Building
+<h3>🔥 Currently Building</h3><br>
 
 🤖 Exploring cutting-edge AI solutions with Groq, Ollama, AWS Bedrock, Nvidia NIM, CrewAI<br>
 🌐 Innovating in GenAI, Machine Learning, and Deep Learning to change the game<br>
 🧠 Developing a Data Science-based application to unlock insights and automate decision-making<br>
-📊 Deeply interested in Data Analytics, focused on leveraging data to drive impactful solutions and business intelligence
+📊 Deeply interested in Data Analytics, focused on leveraging data to drive impactful solutions and business intelligence<br>
 
 💡 What I Love
 

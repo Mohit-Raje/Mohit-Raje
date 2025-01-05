@@ -2,7 +2,7 @@
 
 <h2>🚀 Passionate Developer | Tech Innovator | Problem Solver</h2>
 
-<h3>💻 Tech Stack</h3><br>
+<h3>💻 Tech Stack</h3>
 
 🖥️ Languages:
 Python, Java, C/C++
@@ -20,7 +20,7 @@ GenAI, Data Science, Deep Learning, Natural Language Processing, Computer Vision
 Power BI, Tableau, Excel<br>
 <br>
 
-<h3>🔥 Currently Building</h3><br>
+<h3>🔥 Currently Building</h3>
 
 🤖 Exploring cutting-edge AI solutions with Groq, Ollama, AWS Bedrock, Nvidia NIM, CrewAI<br>
 🌐 Innovating in GenAI, Machine Learning, and Deep Learning to change the game<br>
@@ -29,7 +29,7 @@ Power BI, Tableau, Excel<br>
 <br>
 
 <h3>💡 What I Love</h3>
-<br>
+
 Breaking complex problems into elegant solutions 🧩<br>
 Building next-gen AI-powered tools ⚙️<br>
 Collaborating & learning from amazing minds 🌍<br>
@@ -41,4 +41,4 @@ Collaborating & learning from amazing minds 🌍<br>
 🌐 LinkedIn: Mohit Raje<br>
 <br>
 
-🌟 Always exploring new frontiers in tech! 🚀
+<b>🌟 Always exploring new frontiers in tech! 🚀<b>

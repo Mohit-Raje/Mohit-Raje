@@ -2,7 +2,7 @@
 
 🚀 Passionate Developer | Tech Innovator | Problem Solver
 
-<h3>💻 Tech Stack</h3>
+<h4>💻 Tech Stack</h4>
 
 🖥️ Languages:
 Python, Java, C/C++

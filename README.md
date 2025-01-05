@@ -1,4 +1,4 @@
-👋 Hey, I'm Mohit Raje!
+👋 Hey, I'm <b>Mohit Raje!<b>
 
 🚀 Passionate Developer | Tech Innovator | Problem Solver
 

@@ -1,6 +1,6 @@
-<h1>👋 Hey, I'm <b>Mohit Raje!<b><h1>
+<h1>👋 Hey, I'm <b>Mohit Raje!<b></b></h1>
 
-<h2>🚀 Passionate Developer | Tech Innovator | Problem Solver<h2>
+<h2>🚀 Passionate Developer | Tech Innovator | Problem Solver</h2>
 
 <h3>💻 Tech Stack</h3><br>
 

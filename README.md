@@ -1,8 +1,8 @@
-👋 Hey, I'm <b>Mohit Raje!<b>
+<h1>👋 Hey, I'm <b>Mohit Raje!<b><h1>
 
-🚀 Passionate Developer | Tech Innovator | Problem Solver
+<h2>🚀 Passionate Developer | Tech Innovator | Problem Solver<h2>
 
-<h4>💻 Tech Stack</h4>
+<h3>💻 Tech Stack</h3><br>
 
 🖥️ Languages:
 Python, Java, C/C++
@@ -17,7 +17,7 @@ SQL - Mysql , NoSQL - GraphDB (Neo4J)
 GenAI, Data Science, Deep Learning, Natural Language Processing, Computer Vision
 
 📊 Analytics:
-Power BI, Tableau, Excel
+Power BI, Tableau, Excel<br>
 
 
 🔥 Currently Building

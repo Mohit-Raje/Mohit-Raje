@@ -18,7 +18,7 @@ GenAI, Data Science, Deep Learning, Natural Language Processing, Computer Vision
 
 📊 Analytics:
 Power BI, Tableau, Excel<br>
-
+<br>
 
 <h3>🔥 Currently Building</h3><br>
 

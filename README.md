@@ -33,10 +33,12 @@ Power BI, Tableau, Excel<br>
 Breaking complex problems into elegant solutions 🧩<br>
 Building next-gen AI-powered tools ⚙️<br>
 Collaborating & learning from amazing minds 🌍<br>
+<br>
 
-🔗 Let’s Connect
+<h3>🔗 Let’s Connect</h3>
 
-📧 Email: mohit.raje2002@gmail.com
-🌐 LinkedIn: Mohit Raje
+📧 Email: mohit.raje2002@gmail.com<br>
+🌐 LinkedIn: Mohit Raje<br>
+<br>
 
 🌟 Always exploring new frontiers in tech! 🚀

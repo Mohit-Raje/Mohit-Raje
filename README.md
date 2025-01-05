@@ -26,12 +26,13 @@ Power BI, Tableau, Excel<br>
 🌐 Innovating in GenAI, Machine Learning, and Deep Learning to change the game<br>
 🧠 Developing a Data Science-based application to unlock insights and automate decision-making<br>
 📊 Deeply interested in Data Analytics, focused on leveraging data to drive impactful solutions and business intelligence<br>
+<br>
 
-💡 What I Love
-
-Breaking complex problems into elegant solutions 🧩
-Building next-gen AI-powered tools ⚙️
-Collaborating & learning from amazing minds 🌍
+<h3>💡 What I Love</h3>
+<br>
+Breaking complex problems into elegant solutions 🧩<br>
+Building next-gen AI-powered tools ⚙️<br>
+Collaborating & learning from amazing minds 🌍<br>
 
 🔗 Let’s Connect
 

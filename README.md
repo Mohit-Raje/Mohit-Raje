@@ -38,7 +38,7 @@ Collaborating & learning from amazing minds 🌍<br>
 <h3>🔗 Let’s Connect</h3>
 
 📧 Email: mohit.raje2002@gmail.com<br>
-🌐 LinkedIn: Mohit Raje<br>
+🌐 LinkedIn: https://www.linkedin.com/in/mohit-raje-860b1b1b3/<br>
 <br>
 
 <b>🌟 Always exploring new frontiers in tech! 🚀<b>

@@ -1,26 +1,41 @@
-<p>👋 <b>Hey, I'm Mohit Raje!</b></p><br>
-<p>🚀 <b>Passionate Developer | Tech Innovator | Problem Solver</b></p><br>
+👋 Hey, I'm Mohit Raje!
 
-<p>💻 <b>Tech Stack:</b></p><br>
-<b> 🖥️Languages</b>: Python, Java, C/C++<br>
-<b>⚙️: Frameworks & Tools</b> LangChain, CrewAI, TensorFlow, Scikit-Learn, Keras, XGBoost, NumPy, Pandas, Matplotlib, SciPy, Seaborn, Plotly<br>
-<p>📂 <b>Database</b> 🗃️: SQL</p><br>
-<p>📊 <b>Analytics</b> 📊: Power BI, Tableau, Excel</p><br>
-<p>🧠 <b>AI & ML</b>: GenAI, Data Science, Deep Learning, Natural Language Processing, Computer Vision</p><br>
+🚀 Passionate Developer | Tech Innovator | Problem Solver
 
-<p>🔥 <b>Currently Building:</b></p><br>
-• 🤖 Exploring cutting-edge AI solutions with Groq, Ollama, AWS Bedrock, Nvidia NIM, Crew AI<br>
-• 🌐 Innovating in GenAI, Machine Learning, and Deep Learning to change the game<br>
-• 🧠 Developing a Data Science-based application to unlock insights and automate decision-making<br>
-• 📊 Deep interest in Data Analytics, focused on leveraging data to drive impactful solutions and business intelligence<br>
+💻 Tech Stack
 
-<p>💡 <b>What I Love:</b></p><br>
-• Breaking complex problems into elegant solutions 🧩<br>
-• Building next-gen AI-powered tools ⚙️<br>
-• 💬 Collaborating & learning from amazing minds 🌍<br>
+🖥️ Languages:
+Python, Java, C/C++
 
-<p>🔗 <b>Let’s Connect:</b></p><br>
-• 📧 mohit.raje2002@gmail.com<br>
-• 🌐 https://www.linkedin.com/in/mohit-raje-860b1b1b3/<br>
+⚙️ Frameworks & Tools:
+LangChain, CrewAI, TensorFlow, Scikit-Learn, Keras, XGBoost, NumPy, Pandas, Matplotlib, SciPy, Seaborn, Plotly , streamlit
 
-🌟 <b>Always exploring new frontiers in tech!</b> 🚀<br>
+📂 Database:
+SQL - Mysql , NoSQL - GraphDB (Neo4J)
+
+🧠 AI & ML:
+GenAI, Data Science, Deep Learning, Natural Language Processing, Computer Vision
+
+📊 Analytics:
+Power BI, Tableau, Excel
+
+
+🔥 Currently Building
+
+🤖 Exploring cutting-edge AI solutions with Groq, Ollama, AWS Bedrock, Nvidia NIM, CrewAI
+🌐 Innovating in GenAI, Machine Learning, and Deep Learning to change the game
+🧠 Developing a Data Science-based application to unlock insights and automate decision-making
+📊 Deeply interested in Data Analytics, focused on leveraging data to drive impactful solutions and business intelligence
+
+💡 What I Love
+
+Breaking complex problems into elegant solutions 🧩
+Building next-gen AI-powered tools ⚙️
+Collaborating & learning from amazing minds 🌍
+
+🔗 Let’s Connect
+
+📧 Email: mohit.raje2002@gmail.com
+🌐 LinkedIn: Mohit Raje
+
+🌟 Always exploring new frontiers in tech! 🚀

@@ -14,7 +14,7 @@ LangChain, Gemini , CrewAI, TensorFlow, Scikit-Learn, Keras, XGBoost, NumPy, Pan
 SQL - Mysql , NoSQL - GraphDB (Neo4J)
 
 🧠 AI & ML:
-GenAI, Data Science, Deep Learning, Natural Language Processing, Computer Vision
+GenAI, Data Science, Deep Learning, Natural Language Processing, Computer Vision , GenAI Application Deployment
 
 📊 Analytics:
 Power BI, Tableau, Excel<br>

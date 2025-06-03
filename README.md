@@ -8,7 +8,7 @@
 Python, Java, C/C++
 
 ⚙️ Frameworks & Tools:
-LangChain, Gemini , CrewAI, TensorFlow, Scikit-Learn, Keras, XGBoost, NumPy, Pandas, Matplotlib, SciPy, Seaborn, Plotly , streamlit
+LangChain, MLFLOWS , Gemini , CrewAI, TensorFlow, Scikit-Learn, Keras, XGBoost, NumPy, Pandas, Matplotlib, SciPy, Seaborn, Plotly , streamlit
 
 📂 Database:
 SQL - Mysql , NoSQL - GraphDB (Neo4J)
